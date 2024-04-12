@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Junior Data Analyst в Adventum (удаленно).iml" filepath="$PROJECT_DIR$/.idea/Junior Data Analyst в Adventum (удаленно).iml" />
       <module fileurl="file://$PROJECT_DIR$/../junior_data_scientist_for_company_our_world_in_data/.idea/junior_data_scientist_our_world_in_data.iml" filepath="$PROJECT_DIR$/../junior_data_scientist_for_company_our_world_in_data/.idea/junior_data_scientist_our_world_in_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../test_project/.idea/test_project.iml" filepath="$PROJECT_DIR$/../../../test_project/.idea/test_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../test_work_for_intern_data_engineer/.idea/test_work_for_intern_data_engineer.iml" filepath="$PROJECT_DIR$/../test_work_for_intern_data_engineer/.idea/test_work_for_intern_data_engineer.iml" />
     </modules>
   </component>
