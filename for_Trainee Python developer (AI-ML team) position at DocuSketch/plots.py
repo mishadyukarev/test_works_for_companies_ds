@@ -9,6 +9,8 @@ class Plots:
         self.__df = pd.read_json(ref_of_json_file)
         self.__paths = set()
 
+    def display_df(self): display(self.__df)
+
     def get_paths(self): return self.__paths.copy()
 
     def draw_conf_mat_plot(self, need_to_save_file: bool):
