@@ -11,7 +11,7 @@ def server_url():
 
 
 def test_right_simple_json_file(server_url):
-    test_df = pd.read_csv('../test_task/data/test.csv')
+    test_df = pd.read_csv('../test_task_CHECK_FIRST/data/test.csv')
 
     response = requests.post(server_url, files={"file": test_df.to_json()})
 
@@ -19,7 +19,7 @@ def test_right_simple_json_file(server_url):
 
 
 def test_respond_amount_entities(server_url):
-    test_df = pd.read_csv('../test_task/data/test.csv')
+    test_df = pd.read_csv('../test_task_CHECK_FIRST/data/test.csv')
 
     response = requests.post(server_url, files={"file": test_df.to_json()})
 
