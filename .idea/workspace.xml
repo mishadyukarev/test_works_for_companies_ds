@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d68649d-2e46-4306-8eb5-365ac63ece9f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test_works_for_companies_ds.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_works_for_companies_ds.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/server_CHECK_SECOND/best_regressor_pipeline.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/server_CHECK_SECOND/best_regressor_pipeline.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/server_CHECK_SECOND/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/server_CHECK_SECOND/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/test_task_CHECK_FIRST/logic/1_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/test_task_CHECK_FIRST/logic/1_EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/test_task_CHECK_FIRST/logic/2_feature_eng_and_teaching.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test_for_webbee_machine_learning_engineer/test_task_CHECK_FIRST/logic/2_feature_eng_and_teaching.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_work_for_intern_data_engineer/.idea/test_work_for_intern_data_engineer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test_work_for_intern_data_engineer/.idea/test_work_for_intern_data_engineer.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/misha/OneDrive/Desktop/DS/projects/job/test_works_for_companies_ds/test_for_webbee_machine_learning_engineer/server&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/misha/OneDrive/Desktop/DS/projects/creating_telegram_bot&quot;
   }
 }</component>
   <component name="RecentsManager">

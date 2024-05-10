@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../creating_telegram_bot/.idea/creating_telegram_bot.iml" filepath="$PROJECT_DIR$/../../creating_telegram_bot/.idea/creating_telegram_bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test_works_for_companies_ds.iml" filepath="$PROJECT_DIR$/.idea/test_works_for_companies_ds.iml" />
     </modules>
   </component>
